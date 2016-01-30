@@ -1,0 +1,28 @@
+name: martinbleazard
+favicon: null
+layout_spectrum: 0.24273498030379415
+typography_spectrum: 0.510308574186638
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7737883620429784
+  lightness: 0.29983552801422775
+  saturation: 0.10446121962741017
+  rhythmicContrast: 0.6328741200268269
+purpose: []
