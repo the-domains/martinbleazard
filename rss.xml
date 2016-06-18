@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[martinbleazard]]></title>
+        <description><![CDATA[martinbleazard]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 18 Jun 2016 10:41:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I'm not sure what I'm doing or why I'm doing it.</p>]]></description>
+            <link>undefinedim-not-sure-what-im-doing-or-why-im-doing-it/index.html</link>
+            <guid isPermaLink="false">00d798ac-340f-428f-b7e2-6f3c8362b46a</guid>
+            <pubDate>Sat, 18 Jun 2016 10:41:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
